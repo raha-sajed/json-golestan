@@ -110,6 +110,14 @@
             "id":7,
             "name":"slide7",
             "image":"./public/images/contain/swiper/product-herbal-7-1.jpg"
+        },{
+            "id":8,
+            "name":"slide7",
+            "image":"./public/images/contain/swiper/golkis-teabag-2.jpg"
+        },{
+            "id":9,
+            "name":"slide7",
+            "image":"./public/images/contain/swiper/golkis-teabag-1.jpg"
         }
     ],
     "rice":[
